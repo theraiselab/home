@@ -92,7 +92,7 @@ alum-ug-list:
     website: https://www.linkedin.com/in/alexander-r-woodruff/
     url: https://www.linkedin.com/in/alexander-r-woodruff/
   - name: Saurabh Gulati
-    img: /assets/img/amul2.jpg
+    img: /assets/img/saurabh.jpg
     desc: B.S. Student.
     website: https://www.linkedin.com/in/saurgul/
     url: https://www.linkedin.com/in/saurgul/
