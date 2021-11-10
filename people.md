@@ -7,7 +7,6 @@ pi-list:
     desc: Principal Investigator. 
     website: http://amulyayadav.com
     url: http://amulyayadav.com
-
 grad-list:
   - name: Maryam Tabar
     img: /img/maryam.jpg
@@ -34,7 +33,6 @@ grad-list:
     desc: M.S. Student.
     website: https://ist.psu.edu/directory/nmd5606
     url: https://ist.psu.edu/directory/nmd5606
-    
 ug-list:
   - name: Manan Gupta
     img: /img/manan.jpg
@@ -45,8 +43,7 @@ ug-list:
     img: /img/prerna.jpg
     desc: B.S. Student
     website: https://www.linkedin.com/in/prerna-ranganathan/
-    url: https://www.linkedin.com/in/prerna-ranganathan/
-    
+    url: https://www.linkedin.com/in/prerna-ranganathan/ 
 alum-grad-list:
   - name: Yu Liang
     img: /img/yu.jpg
@@ -63,7 +60,6 @@ alum-grad-list:
     desc: Ph.D. Student.
     website: https://sites.psu.edu/roopalisingh/
     url: https://sites.psu.edu/roopalisingh/
-    
 alum-ug-list:
   - name: Jared Gluck
     img: /img/jared.jpg
@@ -95,7 +91,6 @@ alum-ug-list:
     desc: B.S. Student.
     website: https://www.linkedin.com/in/saurgul/
     url: https://www.linkedin.com/in/saurgul/
-    
 ---
 
 ## Current Group Members
