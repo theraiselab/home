@@ -20,7 +20,7 @@ author: Amulya Yadav
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "home"
+  Home: "https://theraiselab.github.io/home/"
   Research: "research"
   Publications: "publications"
   People: "people"
