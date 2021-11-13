@@ -47,7 +47,7 @@ title: Publications
 * Amulya Yadav, Hau Chan, Albert Jiang, Haifeng Xu, Eric Rice and Milind Tambe. [Using Social Networks to Raise HIV Awareness Among Homeless Youth](http://amulyayadav.com/Papers/IBM17.pdf). In IBM Journal of Research and Development: Volume 61, Issue 6(4), pp. 1-10, 2017.
 
 
-### 2016
+## 2016
 * Amulya Yadav, Hau Chan, Albert Xin Jiang, Eric Rice, Ece Kamar, Barbara Grosz and Milind Tambe. [POMDPs for Assisting Homeless Shelters: Computational and Deployment Challenges](http://amulyayadav.com/Papers/IDEAS16.pdf). In Proc. 2nd Intl. AAMAS Workshop on Issues with Deployment of Emerging Agent-based Systems, 2016. **Most Visionary Paper Award at IDEAS-16**
 * Amulya Yadav, Leandro Marcolino, Eric Rice, Robin Petering, Hailey Winetrobe, Harmony Rhoades, Milind Tambe and Heather Carmichael. [PSINET: Assisting HIV Prevention Amongst Homeless Youth by Planning Ahead](http://amulyayadav.com/Papers/AIMag.pdf). In AI Magazine: 37(2), pp. 47-62, July 2016.
 * Leandro Marcolino, Aravind S. Lakshminarayanan, Amulya Yadav and Milind Tambe. [Simultaneous Influencing and Mapping Social Networks](http://amulyayadav.com/Papers/AAMAS16B.pdf). In Proc. 15th Intl. Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS), pp. 1439-1440, 2016.
@@ -55,16 +55,16 @@ title: Publications
 * Benjamin Ford, Matthew Brown, Amulya Yadav, Amandeep Singh, Arunesh Sinha, Biplav Srivastava, Christopher Kiekintveld and Milind Tambe. [Protecting the NECTAR of the Ganga River through Game-Theoretic Factory Inspections](http://amulyayadav.com/Papers/PAAMS16.pdf). In Proc. 14th International Conference on Practical Applications of Agents and Multi-Agent Systems (PAAMS), pp. 97-108, 2016.
 * Amulya Yadav, Ece Kamar, Barbara Grosz and Milind Tambe. [HEALER: POMDP Planning for Scheduling Interventions among Homeless Youth](http://amulyayadav.com/Papers/AAMAS16_DEMO.pdf). In Proc. 15th Intl. Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS Demo Track), pp. 1504-1506, 2016.
 
-### 2015
+## 2015
 * Eric Shieh, Albert Xin Jiang, Amulya Yadav, Pradeep Varakantham and Milind Tambe. [An Extended Study on Addressing Defender Teamwork while accounting for Uncertainty in Attacker Defender Games using Iterative Dec-MDPs](http://amulyayadav.com/Papers/MAGS15.pdf). In Multiagent and Grid Systems, Volume 11, Issue 4, pp. 189-226, 2015.
 * Thanh H. Nguyen, Francesco M. Delle Fave, Debarun Kar, Aravind S. Lakshminarayanan, Amulya Yadav, Milind Tambe, Noa Agmon, Andrew J. Plumptre, Margaret Driciru, Fred Wanyama and Aggrey Rwetsiba. [Making the most of Our Regrets: Regret-based Solutions to Handle Payoff Uncertainty and Elicitation in Green Security Games](http://amulyayadav.com/Papers/GameSec15.pdf). In Proc. 6th Conference on Decision and Game Theory for Security, pp. 170-191, 2015.
 * Amulya Yadav, Leandro Marcolino, Eric Rice, Robin Petering, Hailey Winetrobe, Harmony Rhoades, Milind Tambe and Heather Carmichael. [Preventing HIV Spread in Homeless Populations using PSINET](http://amulyayadav.com/Papers/IAAI2015.pdf). In Proc. 27th AAAI Conference on Innovative Applications of Artificial Intelligence, pp. 4006-4011, 2015.
 * Amulya Yadav, Thanh Nguyen, Francesco Delle Fave, Milind Tambe, Noa Agmon, Manish Jain, Widodo Ramono and Timbul Batubara. [Handling Payoff Uncertainty with Adversary Bounded Rationality in Green Security Domains](http://amulyayadav.com/Papers/AGT15.pdf). In  Proc. 1st IJCAI Workshop on Algorithmic Game Theory, 2015.
 
-### 2014
+## 2014
 * Eric Shieh, Albert Xin Jiang, Amulya Yadav, Pradeep Varakantham and Milind Tambe. [Unleashing Dec-MDPs in Security Games: Enabling Effective Defender Teamwork](http://amulyayadav.com/Papers/ECAI14.pdf). In Proc. 21st European Conference on Artificial Intelligence (ECAI), pp. 819-824, 2014.
 * Thanh Hong Nguyen, Amulya Yadav, Bo An, Milind Tambe and Craig Boutilier. [Regret-based Optimization and Preference Elicitation for Stackelberg Security Games with Uncertainty](http://amulyayadav.com/Papers/AAAI14.pdf). In Proc. 28th AAAI Conference on Artificial Intelligence, pp. 756-762, 2014.
 
 
-### 2012
+## 2012
 * Sriparna Saha, Ashok Singh Sairam, Amulya Yadav, and Asif Ekbal. [Genetic Algorithm Combined with Support Vector Machine for Building an Intrusion Detection System](http://amulyayadav.com/Papers/ICACCI12.pdf). In Proc. 1st International Conference on Advances in Computing, Communications & Informatics (ICACCI), pp. 566-572, 2012.
