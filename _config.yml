@@ -103,10 +103,10 @@ keywords: "raiselab,raise,AI,amulya,yadav,amulya yadav, Penn State, PSU"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-#navbar-col: "#EAEAEA"
-navbar-col: "#2b5bad"
-#navbar-text-col: "#404040"
-navbar-text-col: "#ffffff"
+navbar-col: "#EAEAEA"
+#navbar-col: "#2b5bad"
+navbar-text-col: "#404040"
+#navbar-text-col: "#ffffff"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
@@ -122,7 +122,7 @@ footer-hover-col: "#0085A1"
 
 #navbar-img: "/img/raise.png"
 #footer-img: "/assets/img/bgimage.png"
-page-img: "/img/raise.png"
+#page-img: "/img/raise.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
