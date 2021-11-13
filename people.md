@@ -96,6 +96,8 @@ alum-ug-list:
 
 {% include list-circles.html items=page.ug-list %}
 
+---
+
 ## Former Group Members
 
 ### Graduate Students
