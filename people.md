@@ -2,7 +2,7 @@
 title: People
 pi-list:
   - name: Amulya Yadav
-    img: /assets/img/amul2.jpg
+    img: (/assets/img/amul2.jpg)
     desc: Principal Investigator. 
     website: (http://amulyayadav.com)
     url: (http://amulyayadav.com)
