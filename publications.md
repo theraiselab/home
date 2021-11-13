@@ -9,10 +9,20 @@ title: Publications
 
 ## 2021
 * Eric Rice, Bryan Wilder, Laura Onasch-Vera, Graham DiGuiseppi, Robin Petering, Chyna Hill, Amulya Yadav, Sung-Jae Lee and Milind Tambe. [A Peer-Led, Artificial Intelligence-Augmented Social Network Intervention to Prevent HIV among Youth Experiencing Homelessness](https://journals.lww.com/jaids/Fulltext/2021/12151/A_Peer_Led,_Artificial_Intelligence_Augmented.4.aspx). In Proc. of the Journal of Acquired Immunodeficiency Syndrome (JAIDS), Volume 88, Issue S1, pp. S20--S26, 2021.
+
+
 * Maryam Tabar, Jared Gluck, Anchit Goyal, Fei Jiang, Derek Morr, Annalyse Kehs, Dongwon Lee, David Hughes, and Amulya Yadav. [A PLAN for Tackling the Locust Crisis in East Africa: Harnessing Spatiotemporal Deep Models for Locust Movement Forecasting](http://amulyayadav.com/Papers/kdd21.pdf). In Proc. 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), pp. 3595--3604, 2021.
+
+
 * Hangzhi Guo, Thanh Nguyen, Amulya Yadav. [CounterNet: End-to-End Training of Counterfactual Aware Prediction](http://amulyayadav.com/Papers/icml2021workshop.pdf). In ICML 21 International Workshop on Algorithmic Recourse, 2021. **Best Paper Award (Runner-Up) in Recourse-21 Workshop at ICML 2021.**
+
+
 * Yu Liang, and Amulya Yadav. [Let the DOCTOR Decide Whom to Test: Adaptive Testing Strategies to Tackle the COVID-19 Pandemic](http://amulyayadav.com/Papers/AAMAS21.pdf). In Proc. 20th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), pp. 790--798, 2021.
+
+
 * Zi-Yi Dou, Anamika Barman-Adhikari, Fei Fang, and Amulya Yadav. [Harnessing Social Media to Identify Homeless Youth At-Risk of Substance Use](http://amulyayadav.com/Papers/aaai21fb.pdf). In Proc. 35th AAAI Conference on Artificial Intelligence, pp. 14748--14756, 2021.
+
+
 * Bryan Wilder, Laura Onasch-Vera, Graham Diguiseppi, Robin Petering, Chyna Hill, Amulya Yadav, Eric Rice and Milind Tambe. [Clinical trial of an AI-augmented intervention for HIV prevention in youth experiencing homelessness](http://amulyayadav.com/Papers/aaai21hiv.pdf). In Proc. 35th AAAI Conference on Artificial Intelligence, pp. 14948--14956, 2021. **Best Student Paper Award at the Mechanism Design for Social Good (MD4SG) Workshop, 2020.**
 
 ## 2020
