@@ -1,8 +1,9 @@
-
 ---
 layout: page
 title: Publications
 ---
+
+
 ## 2022
 * Maryam Tabar, Dongwon Lee, David Hughes, and Amulya Yadav. [Mitigating Low Agricultural Productivity of Smallholder Farms in Africa: Time-Series Forecasting for Environmental Stressors](http://amulyayadav.com/Papers/iaai22.pdf). In Proc. 34th AAAI Conference on Innovative Applications of Artificial Intelligence (IAAI), 2022.
 
