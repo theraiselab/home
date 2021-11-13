@@ -1,5 +1,9 @@
 ---
 title: People
+
+---
+
+
 pi-list:
   - name: Amulya Yadav
     img: /home/img/amul2.jpg
