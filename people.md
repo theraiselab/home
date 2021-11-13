@@ -1,8 +1,6 @@
 ---
 title: People
 
----
-
 
 pi-list:
   - name: Amulya Yadav
