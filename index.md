@@ -4,12 +4,12 @@ title: The RAISE Lab
 subtitle: Responsible AI for Social Emancipation
 use-site-title: true
 bigimg:
-  - "/img/raise.png" : "RAISE Lab Logo"
-  - "/img/groupmeet.png" : "Zoom Group Meeting"
-  - "/img/spy.png" : "AI Enabled HIV Prevention among Homeless Youth"
-  - "/img/chattis.png" : "Online Bandits for Social Justice among Farmers"
-  - "/img/covid.jpeg" : "POMDP driven COVID Testing Policies"
-  - "/img/drug.jpeg" : "Causal Inference for Rehabilitation Program Design"
+  - /home/img/raise.png : "RAISE Lab Logo"
+  - /home/img/groupmeet.png : "Zoom Group Meeting"
+  - /home/img/spy.png : "AI Enabled HIV Prevention among Homeless Youth"
+  - /home/img/chattis.png : "Online Bandits for Social Justice among Farmers"
+  - /home/img/covid.jpeg : "POMDP driven COVID Testing Policies"
+  - /home/img/drug.jpeg : "Causal Inference for Rehabilitation Program Design"
 ---
 
 ## Welcome to the RAISE Lab @ Penn State
