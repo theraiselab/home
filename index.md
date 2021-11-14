@@ -1,6 +1,5 @@
 
 <img src="/home/img/raise.png" alt="Raise" title="The RAISE Lab" width="2000" height="300" class="center" />
-
 ---
 layout: page
 title: Welcome to the RAISE Lab
